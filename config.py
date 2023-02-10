@@ -31,7 +31,7 @@ OWNER = os.environ.get("OWNER", "brengsextower")
 DB_URI = os.environ.get("DATABASE_URL", "postgresql://lnzurrvo:W4Mn4fGUA5PP9f5FGF1ADBdDj47GVsgg@mel.db.elephantsql.com/lnzurrvo")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001801549791"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001537952033"))
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1001483669027"))
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001622055987"))
 
